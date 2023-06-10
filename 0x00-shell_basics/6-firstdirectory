@@ -1,2 +1,2 @@
 #!/bin/bash
--d temp/my_first_directory
+-d tmp/my_first_directory
