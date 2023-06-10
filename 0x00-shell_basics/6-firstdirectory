@@ -1,2 +1,2 @@
 #!/bin/bash
-echo temp/my_first_directory
+-d temp/my_first_directory
